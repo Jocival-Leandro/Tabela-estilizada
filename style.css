@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.titulo {
+    margin: 15px 20px;
+}
+
+.tabela {
+    margin: 0px 20px;
+}
+
+.cabeçalho th {
+    padding: 7px;
+    color: aliceblue;
+}
+
+.produto td {
+    padding: 7px;
+    color: aliceblue;
+}
+
+
+
+.cabeçalho {
+    background-color: #BB86FC;
+}
+
+
+.produto {
+    background-color: #424250;
+}
+
